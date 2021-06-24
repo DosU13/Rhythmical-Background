@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rhythmical Background</string>
+    <string name="company_name">MuzU</string>
+    <string name="start_music">Start Music</string>
+    <string name="stopped">Stopped</string>
+    <string name="started">Started</string>
+    <string name="logo">Logo</string>
+    <string name="panda">PANDA\nEYES</string>
+</resources>
